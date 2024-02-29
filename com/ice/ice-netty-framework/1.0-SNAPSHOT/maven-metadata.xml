@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ice</groupId>
+  <artifactId>ice-netty-framework</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20240229.030136</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20240229030136</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20240229.030136-1</value>
+        <updated>20240229030136</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
