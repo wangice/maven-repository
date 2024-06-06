@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ice.framework</groupId>
+  <artifactId>ice-framework-parent</artifactId>
+  <version>2.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20240606.100330</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20240606100330</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0-20240606.100330-1</value>
+        <updated>20240606100330</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
